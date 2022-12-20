@@ -14,15 +14,15 @@ We hope that this project will serve as a useful resource for anyone interested 
 
 To run this project, you will need to have the following software and libraries installed:
 
-Python 3.6 or higher
-PIL 9.1.1
-fastai 1.0.64.dev0
-fastprogress 1.0.3
-matplotlib 3.5.3
-NumPy 1.21.6
-Pandas 1.3.5
-pytorch_pretrained_bert 0.6.2
-PyTorch 1.11.0
+- Python 3.6 or higher
+- PIL 9.1.1
+- fastai 1.0.64.dev0
+- fastprogress 1.0.3
+- matplotlib 3.5.3
+- NumPy 1.21.6
+- Pandas 1.3.5
+- pytorch_pretrained_bert 0.6.2
+- PyTorch 1.11.0
 
 ## Conclusion
 
