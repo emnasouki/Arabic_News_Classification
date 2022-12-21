@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome to  Arabic news classification project! In this project, we aim to classify Arabic news articles into various categories using natural language processing techniques.
+Welcome to  Arabic news classification project! This project aims to classify Arabic news articles into various categories using natural language processing techniques.
 
-we aim to classify Arabic news articles into various categories using the BERT model, which is a state-of-the-art natural language processing (NLP) model.
+The goal is to successfully classify Arabic news articles into various categories using the BERT model, which is a state-of-the-art natural language processing (NLP) model.
 
 The BERT model has achieved excellent results on a wide range of NLP tasks, and we believe it has the potential to perform well on the task of Arabic news classification. We have collected a dataset of Arabic news articles and labeled them into various categories, and we will use this dataset to train and evaluate the performance of the BERT model.
 
